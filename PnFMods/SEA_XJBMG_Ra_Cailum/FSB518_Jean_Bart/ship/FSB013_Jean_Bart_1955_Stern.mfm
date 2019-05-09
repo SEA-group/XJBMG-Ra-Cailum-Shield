@@ -1,0 +1,20 @@
+<FSB013_Jean_Bart_1955_Stern.mfm>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	30.00000	</Float>
+	</property>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955_Stern_mg.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955_Stern_ao.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955_Stern_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955_Stern_a.dds	</Texture>
+	</property>
+</FSB013_Jean_Bart_1955_Stern.mfm>

@@ -1,0 +1,9 @@
+<FGM049_380mm_45_Mle_1935.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/gun/FGM049_380mm_45_Mle_1935_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<materialNames />
+	<nodefullVisual>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/gun/FGM049_380mm_45_Mle_1935	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FGM049_380mm_45_Mle_1935.model>

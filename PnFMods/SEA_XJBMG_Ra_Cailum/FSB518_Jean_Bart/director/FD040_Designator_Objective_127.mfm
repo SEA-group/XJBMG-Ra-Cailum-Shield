@@ -1,0 +1,17 @@
+<FD040_Designator_Objective_127.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/default_ao.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD040_Designator_Objective_127_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD040_Designator_Objective_127_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD040_Designator_Objective_127_a.dds	</Texture>
+	</property>
+</FD040_Designator_Objective_127.mfm>

@@ -1,0 +1,14 @@
+<FD059_OPL_14_metre_380mm_wire.mfm>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD059_OPL_14_metre_380mm_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD059_OPL_14_metre_380mm_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD059_OPL_14_metre_380mm_n.dds	</Texture>
+	</property>
+</FD059_OPL_14_metre_380mm_wire.mfm>

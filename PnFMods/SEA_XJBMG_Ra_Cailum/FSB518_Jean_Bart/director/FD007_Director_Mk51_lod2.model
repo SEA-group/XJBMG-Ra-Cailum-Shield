@@ -1,0 +1,8 @@
+<FD007_Director_Mk51_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD007_Director_Mk51_lod3	</parent>
+	<nodefullVisual>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD007_Director_Mk51_lod2	</nodefullVisual>
+	<extent>	10.0000	</extent>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FD007_Director_Mk51_lod2.model>

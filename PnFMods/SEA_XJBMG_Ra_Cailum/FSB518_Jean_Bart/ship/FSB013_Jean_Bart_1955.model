@@ -1,0 +1,8 @@
+<FSB013_Jean_Bart_1955.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955_Full_lod4	</parent>
+	<extent>	350.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FSB013_Jean_Bart_1955.model>

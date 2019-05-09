@@ -1,0 +1,8 @@
+<C011_Grid_9_alpha_skinned.mfm>
+	<fx>	shaders/std_effects/grid_alpha_skinned.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/radar/C011_Grid_9_alpha_a.dds	</Texture>
+	</property>
+</C011_Grid_9_alpha_skinned.mfm>
