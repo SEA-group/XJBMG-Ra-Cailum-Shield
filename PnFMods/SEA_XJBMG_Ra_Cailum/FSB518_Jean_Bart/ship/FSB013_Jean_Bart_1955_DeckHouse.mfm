@@ -3,15 +3,15 @@
 	<collisionFlags>	0	</collisionFlags>
 	<materialKind>	0	</materialKind>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955_Deckhouse_a.dds	</Texture>
+		<Texture>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/default_ao.dds	</Texture>
 	</property>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955_Deckhouse_ao.dds	</Texture>
+		<Texture>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/default_ao.dds	</Texture>
 	</property>
 	<property>	normalMap
-		<Texture>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955_Deckhouse_n.dds	</Texture>
+		<Texture>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/default_ao.dds	</Texture>
 	</property>
 	<property>	metallicGlossMap
-		<Texture>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955_Deckhouse_mg.dds	</Texture>
+		<Texture>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/default_ao.dds	</Texture>
 	</property>
 </FSB013_Jean_Bart_1955_Deckhouse.mfm>
