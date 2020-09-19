@@ -5,7 +5,7 @@
 		<filler>	true	</filler>
 	</action>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/radar/FRS036_Radar_SM_lod1	</parent>
+	<parent>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/radar/lods/FRS036_Radar_SM_lod1	</parent>
 	<extent>	5.0000	</extent>
 	<castsShadow>	false	</castsShadow>
 	<nodefullVisual>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/radar/FRS036_Radar_SM	</nodefullVisual>

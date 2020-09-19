@@ -96,12 +96,6 @@
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955_Bow.mfm	</mfm>
 				</material>
 			</primitiveGroup>
-			<primitiveGroup>	1
-				<material>
-					<identifier>	SHIPMAT_PBS_Shield	</identifier>
-					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955_Shield.mfm	</mfm>
-				</material>
-			</primitiveGroup>
 		</geometry>
 	</renderSet>
 	<renderSet>
@@ -182,8 +176,8 @@
 			<primitive>	Bow_patch_MidFrontShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
-					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955.mfm	</mfm>
+					<identifier>	SHIPMAT_PBS_Shield	</identifier>
+					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955_Shield.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>

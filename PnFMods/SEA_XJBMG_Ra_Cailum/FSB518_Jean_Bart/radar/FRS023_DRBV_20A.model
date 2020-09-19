@@ -1,6 +1,6 @@
 <FRS023_DRBV_20A.model>
 	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/radar/FRS023_DRBV_20A_lod1	</parent>
+	<parent>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/radar/lods/FRS023_DRBV_20A_lod1	</parent>
 	<extent>	3.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/radar/FRS023_DRBV_20A	</nodefullVisual>
 	<animation>

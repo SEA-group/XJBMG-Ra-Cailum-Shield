@@ -8,7 +8,7 @@
 	<materialNames />
 	<extent>	2.0000	</extent>
 	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/radar/FRS024_DRBN_32_lod1	</parent>
+	<parent>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/radar/lods/FRS024_DRBN_32_lod1	</parent>
 	<animation>
 		<name>	Rotation15rpm	</name>
 		<frameRate>	30.0000	</frameRate>

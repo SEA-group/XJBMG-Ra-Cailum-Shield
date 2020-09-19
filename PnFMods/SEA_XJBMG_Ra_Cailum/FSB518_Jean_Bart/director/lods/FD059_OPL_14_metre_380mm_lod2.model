@@ -1,0 +1,8 @@
+<FD059_OPL_14_metre_380mm_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/lods/FD059_OPL_14_metre_380mm_lod3	</parent>
+	<nodefullVisual>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/lods/FD059_OPL_14_metre_380mm_lod2	</nodefullVisual>
+	<extent>	12.0000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FD059_OPL_14_metre_380mm_lod2.model>

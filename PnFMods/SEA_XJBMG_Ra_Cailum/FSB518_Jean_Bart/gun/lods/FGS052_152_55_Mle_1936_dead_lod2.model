@@ -1,0 +1,8 @@
+<FGS052_152_55_Mle_1936_dead_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/gun/lods/FGS052_152_55_Mle_1936_dead_lod3	</parent>
+	<extent>	15.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/gun/lods/FGS052_152_55_Mle_1936_dead_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FGS052_152_55_Mle_1936_dead_lod2.model>

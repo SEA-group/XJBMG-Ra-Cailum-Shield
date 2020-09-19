@@ -1,6 +1,6 @@
 <FD062_Tele_57.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD062_Tele_57_lod1	</parent>
+	<parent>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/lods/FD062_Tele_57_lod1	</parent>
 	<nodefullVisual>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD062_Tele_57	</nodefullVisual>
 	<extent>	4.0000	</extent>
 	<castsShadow>	false	</castsShadow>
