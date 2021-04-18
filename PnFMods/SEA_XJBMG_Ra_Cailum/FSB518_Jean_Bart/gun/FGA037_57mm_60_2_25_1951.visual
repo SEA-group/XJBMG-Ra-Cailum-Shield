@@ -43,7 +43,7 @@
 			<primitive>	TurretShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/gun/FGA037_57mm_60_2_25_1951.mfm	</mfm>
 				</material>
 			</primitiveGroup>

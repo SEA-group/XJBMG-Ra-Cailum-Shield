@@ -25,7 +25,7 @@
 			<primitive>	OPL_8_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD060_OPL_8_metre_152mm.mfm	</mfm>
 				</material>
 			</primitiveGroup>

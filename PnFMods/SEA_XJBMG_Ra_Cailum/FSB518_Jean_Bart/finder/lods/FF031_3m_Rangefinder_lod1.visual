@@ -47,7 +47,7 @@
 			<primitive>	FF031_3m_Rangefinder_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/finder/FF031_3m_Rangefinder.mfm	</mfm>
 				</material>
 			</primitiveGroup>

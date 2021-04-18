@@ -43,7 +43,7 @@
 			<primitive>	OPL_4Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD061_OPL_4_metre_100mm.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -57,7 +57,7 @@
 			<primitive>	OPL_4_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Director	</identifier>
+					<identifier>	SHIPWIREX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD061_OPL_4_metre_100mm_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>

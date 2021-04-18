@@ -29,7 +29,7 @@
 			<primitive>	Turret_dead_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/gun/FGM047_152_55_Mle_1936_RF_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

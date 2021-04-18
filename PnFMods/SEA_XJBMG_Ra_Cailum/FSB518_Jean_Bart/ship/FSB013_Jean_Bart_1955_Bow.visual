@@ -92,7 +92,7 @@
 			<primitive>	BowShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955_Bow.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -106,7 +106,7 @@
 			<primitive>	Bow_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955_Bow_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -134,7 +134,7 @@
 			<primitive>	Bow_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -148,7 +148,7 @@
 			<primitive>	Bow_crack_MidFrontShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -162,7 +162,7 @@
 			<primitive>	Bow_crack_MidFront_inShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -176,7 +176,7 @@
 			<primitive>	Bow_patch_MidFrontShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Shield	</identifier>
+					<identifier>	SHIPMATX_PBS_Shield	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955_Shield.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -190,7 +190,7 @@
 			<primitive>	Bow_patch_MidFront_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>

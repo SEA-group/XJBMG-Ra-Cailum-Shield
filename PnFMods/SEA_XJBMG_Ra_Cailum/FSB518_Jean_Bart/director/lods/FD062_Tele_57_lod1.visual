@@ -34,7 +34,7 @@
 			<primitive>	Tele_57_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD062_Tele_57.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -48,7 +48,7 @@
 			<primitive>	Tele_57_wire_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Director	</identifier>
+					<identifier>	SHIPWIREX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD062_Tele_57_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>

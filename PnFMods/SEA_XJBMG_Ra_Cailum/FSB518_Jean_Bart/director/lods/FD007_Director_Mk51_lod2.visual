@@ -25,7 +25,7 @@
 			<primitive>	AD003_Director_Mk51_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD007_Director_Mk51.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -119,7 +119,7 @@
 			<primitive>	MidBack_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -133,7 +133,7 @@
 			<primitive>	MidBack_DeckHouse_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955_Deckhouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -147,7 +147,7 @@
 			<primitive>	MidBack_crack_MidFront_DeckHouse_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955_Deckhouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -161,7 +161,7 @@
 			<primitive>	MidBack_crack_MidFront_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -175,7 +175,7 @@
 			<primitive>	MidBack_crack_MidFront_in_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -189,7 +189,7 @@
 			<primitive>	MidBack_wire_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -203,7 +203,7 @@
 			<primitive>	MidBack_crack_Stern_DeckHouse_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955_Deckhouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -217,7 +217,7 @@
 			<primitive>	MidBack_crack_Stern_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -231,7 +231,7 @@
 			<primitive>	MidBack_crack_Stern_in_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -245,7 +245,7 @@
 			<primitive>	MidBack_patch_Stern_DeckHouse_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955_Deckhouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -259,7 +259,7 @@
 			<primitive>	MidBack_patch_Stern_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/ship/FSB013_Jean_Bart_1955.mfm	</mfm>
 				</material>
 			</primitiveGroup>
