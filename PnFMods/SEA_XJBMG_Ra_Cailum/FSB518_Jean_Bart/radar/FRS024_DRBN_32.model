@@ -1,19 +1,8 @@
 <FRS024_DRBN_32.model>
-	<action>
-		<name>	idle	</name>
-		<animation>	Rotation15rpm	</animation>
-		<filler>	true	</filler>
-	</action>
-	<exporter>	1.6	</exporter>
-	<materialNames />
-	<extent>	2.0000	</extent>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/radar/lods/FRS024_DRBN_32_lod1	</parent>
-	<animation>
-		<name>	Rotation15rpm	</name>
-		<frameRate>	30.0000	</frameRate>
-		<nodes>	content/animation/common/Rotation15rpm	</nodes>
-	</animation>
-	<nodefullVisual>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/radar/FRS024_DRBN_32	</nodefullVisual>
+	<visual>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/radar/FRS024_DRBN_32.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/FRS024_DRBN_32/FRS024_DRBN_32.ssm	</animation>
+	</animations>
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </FRS024_DRBN_32.model>

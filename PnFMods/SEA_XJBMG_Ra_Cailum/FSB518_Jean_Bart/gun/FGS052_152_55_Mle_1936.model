@@ -1,9 +1,6 @@
 <FGS052_152_55_Mle_1936.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/gun/lods/FGS052_152_55_Mle_1936_lod1	</parent>
-	<extent>	2.0000	</extent>
-	<castsShadow>	true	</castsShadow>
-	<materialNames />
-	<nodefullVisual>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/gun/FGS052_152_55_Mle_1936	</nodefullVisual>
+	<visual>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/gun/FGS052_152_55_Mle_1936.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </FGS052_152_55_Mle_1936.model>

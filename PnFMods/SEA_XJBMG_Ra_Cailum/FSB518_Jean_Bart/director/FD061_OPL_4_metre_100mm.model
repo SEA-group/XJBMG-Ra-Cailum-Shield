@@ -1,9 +1,6 @@
 <FD061_OPL_4_metre_100mm.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/lods/FD061_OPL_4_metre_100mm_lod1	</parent>
-	<nodefullVisual>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD061_OPL_4_metre_100mm	</nodefullVisual>
-	<extent>	3.0000	</extent>
-	<castsShadow>	false	</castsShadow>
-	<materialNames />
+	<visual>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD061_OPL_4_metre_100mm.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </FD061_OPL_4_metre_100mm.model>

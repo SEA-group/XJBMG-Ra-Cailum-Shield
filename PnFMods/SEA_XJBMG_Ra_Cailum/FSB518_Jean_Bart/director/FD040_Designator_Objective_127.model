@@ -1,9 +1,6 @@
 <FD040_Designator_Objective_127.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/lods/FD040_Designator_Objective_127_lod1	</parent>
-	<nodefullVisual>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD040_Designator_Objective_127	</nodefullVisual>
-	<extent>	2.0000	</extent>
-	<castsShadow>	false	</castsShadow>
-	<materialNames />
+	<visual>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD040_Designator_Objective_127.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </FD040_Designator_Objective_127.model>

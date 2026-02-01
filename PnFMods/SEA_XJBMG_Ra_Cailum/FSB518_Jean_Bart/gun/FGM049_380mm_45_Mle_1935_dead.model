@@ -1,9 +1,6 @@
 <FGM049_380mm_45_Mle_1935_dead.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/gun/lods/FGM049_380mm_45_Mle_1935_dead_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<castsShadow>	true	</castsShadow>
-	<materialNames />
-	<nodefullVisual>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/gun/FGM049_380mm_45_Mle_1935_dead	</nodefullVisual>
+	<visual>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/gun/FGM049_380mm_45_Mle_1935_dead.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </FGM049_380mm_45_Mle_1935_dead.model>

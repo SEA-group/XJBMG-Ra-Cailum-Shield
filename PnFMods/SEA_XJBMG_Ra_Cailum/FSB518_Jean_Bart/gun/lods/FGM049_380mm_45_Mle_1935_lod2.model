@@ -1,8 +1,0 @@
-<FGM049_380mm_45_Mle_1935_lod2.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/gun/lods/FGM049_380mm_45_Mle_1935_lod3	</parent>
-	<extent>	40.0000	</extent>
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/gun/lods/FGM049_380mm_45_Mle_1935_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</FGM049_380mm_45_Mle_1935_lod2.model>

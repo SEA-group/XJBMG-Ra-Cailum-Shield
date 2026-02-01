@@ -1,84 +1,184 @@
 <FD061_OPL_4_metre_100mm.visual>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
-		</transform>
+	<skeleton>
 		<node>
-			<identifier>	OPL_4	</identifier>
+			<identifier>	Scene Root	</identifier>
 			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				<row0>	1.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000	</row3>
 			</transform>
 			<node>
-				<identifier>	OPL_4_wire	</identifier>
+				<identifier>	OPL_4	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
 					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 				</transform>
-			</node>
-			<node>
-				<identifier>	OPL_4_Net	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
+				<node>
+					<identifier>	OPL_4_wire	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	OPL_4_Net	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
 			</node>
 		</node>
-	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	OPL_4	</node>
-		<geometry>
-			<vertices>	OPL_4Shape.vertices	</vertices>
-			<primitive>	OPL_4Shape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_Director	</identifier>
-					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD061_OPL_4_metre_100mm.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	OPL_4_wire	</node>
-		<geometry>
-			<vertices>	OPL_4_wireShape.vertices	</vertices>
-			<primitive>	OPL_4_wireShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPWIREX_PBS_Director	</identifier>
-					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD061_OPL_4_metre_100mm_wire.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	OPL_4_Net	</node>
-		<geometry>
-			<vertices>	OPL_4_NetShape.vertices	</vertices>
-			<primitive>	OPL_4_NetShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	GRID_Misc	</identifier>
-					<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/C005_Grid_2_alpha.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
 	<boundingBox>
 		<min>	-0.164172 -0.033194 -0.190510	</min>
 		<max>	0.164172 0.243905 0.131718	</max>
 	</boundingBox>
+	<renderSets>
+		<renderSet>
+			<name>	OPL_4Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	OPL_4	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Director	</identifier>
+				<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD061_OPL_4_metre_100mm.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	OPL_4_wireShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	OPL_4_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPWIREX_PBS_Director	</identifier>
+				<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD061_OPL_4_metre_100mm_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	OPL_4_NetShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	OPL_4_Net	</node>
+			</nodes>
+			<material>
+				<identifier>	GRID_Misc	</identifier>
+				<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/C005_Grid_2_alpha.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	OPL_4_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	OPL_4	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Director	</identifier>
+				<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD061_OPL_4_metre_100mm.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	OPL_4_wire_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	OPL_4_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPWIREX_PBS_Director	</identifier>
+				<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD061_OPL_4_metre_100mm_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	OPL_4_Net_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	OPL_4_Net	</node>
+			</nodes>
+			<material>
+				<identifier>	GRID_Misc	</identifier>
+				<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/C005_Grid_2_alpha.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	OPL_4_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	OPL_4	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Director	</identifier>
+				<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD061_OPL_4_metre_100mm.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	OPL_4_Net_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	OPL_4_Net	</node>
+			</nodes>
+			<material>
+				<identifier>	GRID_Misc	</identifier>
+				<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/C005_Grid_2_alpha.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	OPL_4_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	OPL_4	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Director	</identifier>
+				<mfm>	PnFMods/SEA_XJBMG_Ra_Cailum/FSB518_Jean_Bart/director/FD061_OPL_4_metre_100mm.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	3.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	OPL_4Shape	</renderSet>
+				<renderSet>	OPL_4_wireShape	</renderSet>
+				<renderSet>	OPL_4_NetShape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	8.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	OPL_4_lod1Shape	</renderSet>
+				<renderSet>	OPL_4_wire_lod1Shape	</renderSet>
+				<renderSet>	OPL_4_Net_lod1Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	15.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	OPL_4_lod2Shape	</renderSet>
+				<renderSet>	OPL_4_Net_lod2Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	90.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	OPL_4_lod3Shape	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
 </FD061_OPL_4_metre_100mm.visual>
